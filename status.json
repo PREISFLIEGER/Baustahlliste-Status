@@ -1,7 +1,9 @@
 {
  "v": 1,
- "t": "2026-10-21T07:36:29.806Z",
+ "t": "2026-10-21T08:59:29.501Z",
  "an": true,
  "msg": "",
- "kunden": {}
+ "kunden": {
+  "9ZTFVM": "SyyeHX8VcXnms9Gl6xDOwxkVpCfL6Dn0BMl0G8EnzQl/NbSGg+m1f55W7O8QH35CQt/zcVLH3x4qceIeIoPHugrKY6k8dnfMWu30A+tjYBBa60SVtN8RVeoMZ8QISoNcbZYy6IvJZDBUGX7uc0QLEMahYw3fIBdUX9G1d3z0TtAXbtM="
+ }
 }
